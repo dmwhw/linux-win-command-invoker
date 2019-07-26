@@ -1,0 +1,1 @@
+this project is used to invoke cmd or bash command by java. there is a ffmpeg covert demo.be sure you have ffmpeg
